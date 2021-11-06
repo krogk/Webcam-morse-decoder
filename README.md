@@ -1,4 +1,4 @@
-# Morse Code Decoder - Digital Signal Processing IIR Filter Assignment @ UoG
+# Morse Code Decoder using IIR Filter
 
 
 The coding language is Python.
